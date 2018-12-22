@@ -1,0 +1,32 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - Color-Picker-for-iOS (2.0.2)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - BlocksKit
+  - Color-Picker-for-iOS
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  Color-Picker-for-iOS: 4980589b3e3cfe7198f227dd50be9adb02d8bc0b
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: e0cb9d7c2f966bef0d3ea3a88c8b057d2eb1a0b8
+
+COCOAPODS: 1.4.0
